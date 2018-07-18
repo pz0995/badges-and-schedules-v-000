@@ -32,3 +32,4 @@ def printer(speaker, room)
       puts "#{aroom}"
 end
 end
+end
